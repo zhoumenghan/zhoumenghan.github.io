@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Menghan Zhou (周梦涵)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Advisory Researcher in Lenovo Research, PCI&E Lab. Focusing on Computer Vision"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -38,7 +38,7 @@ author:
   facebook         :
   foursquare       :
   github           : # e.g., "github username"
-  google_plus      :
+  google_plus      : "https://scholar.google.com.hk/citations?hl=en&user=MLTySQIAAAAJ"
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
