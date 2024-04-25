@@ -9,8 +9,11 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Competitions and Awards"
+    url: "/#-competitions-and-awards"
+
+  - title: "Honors"
+    url: "/#-honors"
 
   - title: "Educations"
     url: "/#-educations"
