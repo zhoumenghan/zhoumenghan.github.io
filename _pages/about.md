@@ -54,4 +54,4 @@ I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem L
 
 # 💻 Internships
 - *2019.03 - 2019.06*, Lenovo Research, Beijing, China.
-- *2018.06 - 2018.10*, YOUKU, Beijing, China.
+- *2018.06 - 2018.10*, Alibaba, YOUKU, Beijing, China.
