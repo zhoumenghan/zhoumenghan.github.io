@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from College of Information Science and Engineering, Yanshan University (燕山大学信息科学与工程学院) with a bachelor’s degree and from the School of Computer Science, Beijing University Of Posts and Telecommunications (北京邮电大学计算机学院) with a master’s degree, advised by [Anlong Ming (明安龙)]((http://www.vrobotit.cn/~mal).
+I graduated from College of Information Science and Engineering, Yanshan University (燕山大学信息科学与工程学院) with a bachelor’s degree and from the School of Computer Science, Beijing University Of Posts and Telecommunications (北京邮电大学计算机学院) with a master’s degree, advised by [Anlong Ming (明安龙)](http://www.vrobotit.cn/~mal).
 
 I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem Lab at Lenovo Research, China. My current research interests include real-time face enhancement and real-time super-resolution.  If you are seeking any form of academic cooperation, please feel free to email me at zhoumh3@lenovo.com.
 
