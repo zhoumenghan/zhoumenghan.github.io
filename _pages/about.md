@@ -17,13 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I graduated from College of Information Science and Engineering, Yanshan University (燕山大学信息科学与工程学院) with a bachelor’s degree and from the School of Computer Science, Beijing University Of Posts and Telecommunications (北京邮电大学计算机学院) with a master’s degree, advised by [Anlong Ming (明安龙)]((http://www.vrobotit.cn/~mal).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem Lab at Lenovo Research, China. My current research interests include real-time face enhancement and real-time super-resolution.  If you are seeking any form of academic cooperation, please feel free to email me at zhoumh3@lenovo.com.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
@@ -42,17 +41,29 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Competitions & Awards
+- *2024.04* The 4th of the AIS2024 CVPR Challenge on Real-time Compressed Image Super-Resolution (Fidelity track). (25 teams in total)
+- *2024.04* The 6th of the NTIRE2024 CVPR Challenge on Efficient Image Super-Resolution (Overall Performance track).  (34 teams in total)
+- *2024.04* The 6th of the NTIRE2024 CVPR Challenge on Efficient Image Super-Resolution (Runtime track). (34 teams in total) 
+- *2015.05* National Third Prize on MathorCup & CAA. 
+- *2014.09* National Second Prize on China Undergraduate Mathematical Contest in Modeling.
+
+# 🎖 Honors
+- *2022.04* FY21/22 PCIE Lab Annual Spotlight Award.
+- *2020.06* FY20/21 Q1 PCIE Lab Individual Excellence Award. 
+- *2017.09* Outstanding Graduate Student of Beijing University of Posts and Telecommunications from 2016 to 2017. (<5%)
+- *2016.06* Outstanding Graduates from Hebei Province.
+- *2015.06* National Encouragement scholarship (Undergraduate).
+- *2014.06* National Encouragement scholarship (Undergraduate).
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2016.09 - 2019.06*, Master, School of Computer Science, Beijing University Of Posts and Telecommunications, Beijing.
+- *2012.09 - 2016.06*, Undergraduate, Yanshan University, Hebei.
+- *2009.09 - 2012.06*, Hebei Dingzhou Middle School.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.04*, The video presentation about our method (ANUNet) for AIS 2024 Image RTSR Challenge.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.03 - 2019.06*, Lenovo Research, Beijing, China.
+- *2018.06 - 2018.10*, YOUKU, Beijing, China.
