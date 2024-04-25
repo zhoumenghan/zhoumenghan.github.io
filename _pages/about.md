@@ -21,10 +21,7 @@ I graduated from College of Information Science and Engineering, Yanshan Univers
 
 I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem Lab at Lenovo Research, China. My current research interests include real-time face enhancement and real-time super-resolution.  If you are seeking any form of academic cooperation, please feel free to email me at zhoumh3@lenovo.com.
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+  
 # 📝 Publications 
 
 - Rui Lu, Feng Xue, **Menghan Zhou**, Anlong Ming, Yu Zhou. Occlusion-shared and Feature-separated Network for Occlusion Relationship Reasoning. International Conference on Computer Vision (ICCV), 2019.
@@ -33,7 +30,6 @@ I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem L
 - **Menghan Zhou**, Jianxiang Ma, Anlong Ming, Yu Zhou. Objectness-aware Tracking via Double Layer Model. The 25th IEEE International Conference on Image Processing (ICIP), 2018.
 - Aiwei Yu, Anlong Ming, **Menghan Zhou**, Xuejing Kang and Yu Zhou. Occlusion Edges Extracation for Depth Ordering Inference from Monocular Images. The 5th International Conference on Enterprise Systems (ES), 2017. **(Oral Presentation)**
 
-- 
 
 # 🎖 Competitions & Awards
 - *2024.04* The 4th of the AIS2024 CVPR Challenge on Real-time Compressed Image Super-Resolution (Fidelity track). (25 teams in total)
@@ -56,7 +52,7 @@ I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem L
 - *2009.09 - 2012.06*, Hebei Dingzhou Middle School.
 
 # 💬 Invited Talks
-- *2024.04*, The video presentation about our method (ANUNet) for AIS 2024 Image RTSR Challenge.  \| [\[video\]](https://github.com/)
+- *2024.04*, The video presentation about our method (ANUNet) for AIS2024 CVPR Challenge on Real-time Compressed Image Super-Resolution.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.03 - 2019.06*, Lenovo Research, Beijing, China.
