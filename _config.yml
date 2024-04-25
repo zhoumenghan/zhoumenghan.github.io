@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Menghan Zhou (周梦涵)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avator-512.png"
   bio              : "Advisory Researcher in Lenovo Research, PCI&E Lab. Focusing on Computer Vision"
   location         : "Beijing, China"
   employer         :
