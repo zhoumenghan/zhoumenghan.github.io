@@ -213,6 +213,9 @@
       {% if author.impactstory %}
         <a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i></a>
       {% endif %}
+      {% if author.CSDN %}
+        <a href="{{ author.CSDN }}"><i class="ai ai-impactstory ai-fw"></i> CSDN</a>
+      {% endif %}
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
