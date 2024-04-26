@@ -32,7 +32,7 @@ Rui Lu, Feng Xue, **Menghan Zhou**, Anlong Ming, Yu Zhou
 IEEE International Conference on Computer Vision (***ICCV***), 2019  
 [**Paper**](https://arxiv.org/pdf/1908.05898v1)
 [**Code**](https://github.com/buptlr/OFNet)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We present a novel OFNet, which shares the occlusion cue from the decoder and separately acquires the contextual features for specific tasks. 
 </div>
 </div>
 
@@ -44,7 +44,7 @@ IEEE International Conference on Computer Vision (***ICCV***), 2019
 Rui Lu, **Menghan Zhou**, Anlong Ming, Yu Zhou  
 IEEE International Conference on Multimedia and Expo (***ICME***), 2019  
 [**Paper**](https://arxiv.org/pdf/1903.08890)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We propose a novel method to utilize Spatial Feature Refinement (SFR) and Contour Sensitivity Augmentation (CSA) to acquire low-level and high-level information. 
 </div>
 </div>
 
@@ -57,7 +57,7 @@ Feng Xue, Anlong Ming, **Menghan Zhou**, Yu Zhou
 IEEE International Conference on Robotics and Automation (***ICRA***), 2019  
 [**Paper**](https://arxiv.org/pdf/1904.10161v3)
 [**Code**](https://github.com/xuefeng-cvr/Tiny-Obstacle-Discovery)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We propose a multi-layer framework to produce a set of novel obstacle-aware occlusion edge maps. 
 </div>
 </div>
 
@@ -69,7 +69,7 @@ IEEE International Conference on Robotics and Automation (***ICRA***), 2019
 **Menghan Zhou**, Jianxiang Ma, Anlong Ming, Yu Zhou  
 IEEE International Conference on Image Processing (***ICIP***), 2018  
 [**Paper**](https://ieeexplore.ieee.org/document/8451130)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We propose a double-layer model combining "correlation filter tracker" with "object awareness layer to ensure that the tracked targets possess the desired object attributes.
 </div>
 </div>
 
@@ -80,7 +80,6 @@ IEEE International Conference on Image Processing (***ICIP***), 2018
 Aiwei Yu, Anlong Ming, **Menghan Zhou**, Xuejing Kang and Yu Zhou  
 IEEE International Conference on Enterprise Systems (***ES***), 2017  
 **(Oral Presentation)**
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
