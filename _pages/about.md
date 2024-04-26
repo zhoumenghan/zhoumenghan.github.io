@@ -24,55 +24,75 @@ I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem L
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Occlusion-shared and Feature-separated Network for Occlusion Relationship Reasoning**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<br> Rui Lu, Feng Xue, **Menghan Zhou**, Anlong Ming, Yu Zhou  <br>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<br> IEEE International Conference on Computer Vision (***ICCV***), 2019 <br>
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
 
-
-![dise](<images/datafreequan.png>)**Towards Accurate Data-free Quantization for Diffusion Models**
-
-<br> Changyuan Wang, Ziwei Wang, Xiuwei Xu, **Yansong Tang#**, Jie Zhou, Jiwen Lu <br>
-
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2024 <br>
-
-<font color="red"><strong>Highlight</strong></font>
-
-<br>
-
-[[arXiv]](<https://arxiv.org/pdf/2305.18723.pdf>)[[Code]](<https://github.com/ChangyuanWang17/APQ-DM>)<br>
-
-We propose an accurate data-free post-training quantization framework of diffusion models (ADP-DM) for efficient image generation.
-
-          
-**Occlusion-shared and Feature-separated Network for Occlusion Relationship Reasoning**  
-Rui Lu, Feng Xue, **Menghan Zhou**, Anlong Ming, Yu Zhou  
-IEEE International Conference on Computer Vision (***ICCV***), 2019
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2019</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Context-constrained Accurate Contour Extraction for Occlusion Edge Detection**  
-Rui Lu, **Menghan Zhou**, Anlong Ming, Yu Zhou  
-IEEE International Conference on Multimedia and Expo (***ICME***), 2019.
+<br> Rui Lu, **Menghan Zhou**, Anlong Ming, Yu Zhou  <br>
 
-**A Novel Multi-layers Framework for Tiny Obstacle Discovery**  
-Feng Xue, Anlong Ming, **Menghan Zhou**, Yu Zhou  
-IEEE International Conference on Robotics and Automation (***ICRA***), 2019
+<br> IEEE International Conference on Multimedia and Expo (***ICME***), 2019 <br>
 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2019</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Context-constrained Accurate Contour Extraction for Occlusion Edge Detection**  
+<br> Feng Xue, Anlong Ming, **Menghan Zhou**, Yu Zhou  <br>
+
+<br> IEEE International Conference on Robotics and Automation (***ICRA***), 2019 <br>
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2018</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 **Objectness-aware Tracking via Double Layer Model**  
-**Menghan Zhou**, Jianxiang Ma, Anlong Ming, Yu Zhou  
-IEEE International Conference on Image Processing (***ICIP***), 2018
+<br> **Menghan Zhou**, Jianxiang Ma, Anlong Ming, Yu Zhou  <br>
 
-**Occlusion Edges Extracation for Depth Ordering Inference from Monocular Images**  
-Aiwei Yu, Anlong Ming, **Menghan Zhou**, Xuejing Kang and Yu Zhou  
-IEEE International Conference on Enterprise Systems (***ES***), 2017
-**(Oral Presentation)**
+<br> IEEE International Conference on Image Processing (***ICIP***), 2018 <br>
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES 2017</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Occlusion Edges Extracation for Depth Ordering Inference from Monocular Images**   **(Oral Presentation)**
+<br> Aiwei Yu, Anlong Ming, **Menghan Zhou**, Xuejing Kang and Yu Zhou  <br>
+
+<br> IEEE International Conference on Enterprise Systems (***ES***), 2017 <br>
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
 
 # 🎉 Competitions & Awards
 - *2024.04* The 4th of the AIS2024 CVPR Challenge on Real-time Compressed Image Super-Resolution (Fidelity track). (25 teams in total)
