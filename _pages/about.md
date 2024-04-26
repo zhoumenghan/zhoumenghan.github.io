@@ -23,6 +23,28 @@ I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem L
 
   
 # 📝 Publications 
+
+<tr>
+            <td style="padding:20px;width:30%;max-width:30%" align="center">
+              ![dise](images/datafreequan.png)
+            </td>
+            <td width="75%" valign="center">
+              <papertitle>Towards Accurate Data-free Quantization for Diffusion Models</papertitle>
+
+              Changyuan Wang, Ziwei Wang, Xiuwei Xu, **Yansong Tang#**, Jie Zhou, Jiwen Lu
+
+              _IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)_, 2024
+
+              <font color="red">**Highlight**</font>
+
+              [[arXiv]](https://arxiv.org/pdf/2305.18723.pdf)
+	      [[Code]](https://github.com/ChangyuanWang17/APQ-DM) 	    
+
+ We propose an accurate data-free post-training quantization framework of diffusion models (ADP-DM) for efficient image generation. 
+
+            </td>
+          </tr>
+          
 **Occlusion-shared and Feature-separated Network for Occlusion Relationship Reasoning**  
 Rui Lu, Feng Xue, **Menghan Zhou**, Anlong Ming, Yu Zhou  
 IEEE International Conference on Computer Vision (***ICCV***), 2019
