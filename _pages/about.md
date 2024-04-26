@@ -24,7 +24,7 @@ I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem L
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/apple-touch-icon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/ICCV2019.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Occlusion-shared and Feature-separated Network for Occlusion Relationship Reasoning**
@@ -37,7 +37,7 @@ IEEE International Conference on Computer Vision (***ICCV***), 2019
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2019</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2019</div><img src='images/ICME2019.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Context-constrained Accurate Contour Extraction for Occlusion Edge Detection**  
@@ -49,7 +49,7 @@ IEEE International Conference on Multimedia and Expo (***ICME***), 2019
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2019</div><img src='images/ICRA2019.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2019</div><img src='images/ICRA2019.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **A Novel Multi-layers Framework for Tiny Obstacle Discovery**  
@@ -62,7 +62,7 @@ IEEE International Conference on Robotics and Automation (***ICRA***), 2019
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2018</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2018</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Objectness-aware Tracking via Double Layer Model**  
@@ -73,7 +73,7 @@ IEEE International Conference on Image Processing (***ICIP***), 2018
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES 2017</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES 2017</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Occlusion Edges Extracation for Depth Ordering Inference from Monocular Images**   
