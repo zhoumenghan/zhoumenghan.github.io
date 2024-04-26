@@ -25,23 +25,23 @@ I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem L
 # 📝 Publications 
 **Occlusion-shared and Feature-separated Network for Occlusion Relationship Reasoning**  
 Rui Lu, Feng Xue, **Menghan Zhou**, Anlong Ming, Yu Zhou  
-IEEE International Conference on Computer Vision (*ICCV*), 2019
+IEEE International Conference on Computer Vision (***ICCV***), 2019
 
 **Context-constrained Accurate Contour Extraction for Occlusion Edge Detection**  
 Rui Lu, **Menghan Zhou**, Anlong Ming, Yu Zhou  
-IEEE International Conference on Multimedia and Expo (*ICME*), 2019.
+IEEE International Conference on Multimedia and Expo (***ICME***), 2019.
 
 **A Novel Multi-layers Framework for Tiny Obstacle Discovery**  
 Feng Xue, Anlong Ming, **Menghan Zhou**, Yu Zhou  
-IEEE International Conference on Robotics and Automation (*ICRA*), 2019
+IEEE International Conference on Robotics and Automation (***ICRA***), 2019
 
 **Objectness-aware Tracking via Double Layer Model**  
 **Menghan Zhou**, Jianxiang Ma, Anlong Ming, Yu Zhou  
-IEEE International Conference on Image Processing (*ICIP*), 2018
+IEEE International Conference on Image Processing (***ICIP***), 2018
 
 **Occlusion Edges Extracation for Depth Ordering Inference from Monocular Images**  
 Aiwei Yu, Anlong Ming, **Menghan Zhou**, Xuejing Kang and Yu Zhou  
-IEEE International Conference on Enterprise Systems (*ES*), 2017
+IEEE International Conference on Enterprise Systems (***ES***), 2017
 **(Oral Presentation)**
 
 # 🎉 Competitions & Awards
