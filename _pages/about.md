@@ -27,7 +27,7 @@ I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem L
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/ICCV2019.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Occlusion-shared and Feature-separated Network for Occlusion Relationship Reasoning**
+**Occlusion-shared and Feature-separated Network for Occlusion Relationship Reasoning**  
 Rui Lu, Feng Xue, **Menghan Zhou**, Anlong Ming, Yu Zhou   
 IEEE International Conference on Computer Vision (***ICCV***), 2019  
 [**Paper**](https://arxiv.org/pdf/1908.05898v1)
@@ -40,7 +40,7 @@ IEEE International Conference on Computer Vision (***ICCV***), 2019
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2019</div><img src='images/ICME2019.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Context-constrained Accurate Contour Extraction for Occlusion Edge Detection**  
+**Context-constrained Accurate Contour Extraction for Occlusion Edge Detection**   
 Rui Lu, **Menghan Zhou**, Anlong Ming, Yu Zhou  
 IEEE International Conference on Multimedia and Expo (***ICME***), 2019  
 [**Paper**](https://arxiv.org/pdf/1903.08890)
