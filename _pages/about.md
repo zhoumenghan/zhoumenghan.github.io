@@ -23,11 +23,26 @@ I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem L
 
   
 # 📝 Publications 
-- Rui Lu, Feng Xue, **Menghan Zhou**, Anlong Ming, Yu Zhou. Occlusion-shared and Feature-separated Network for Occlusion Relationship Reasoning. International Conference on Computer Vision (ICCV), 2019.
-- Rui Lu, **Menghan Zhou**, Anlong Ming, Yu Zhou. Context-constrained Accurate Contour Extraction for Occlusion Edge Detection. IEEE International Conference on Multimedia and Expo (ICME), 2019.
-- Feng Xue, Anlong Ming, **Menghan Zhou**, Yu Zhou. A Novel Multi-layers Framework for Tiny Obstacle Discovery，The 2019 International Conference on Robotics and Automation (ICRA), 2019.
-- **Menghan Zhou**, Jianxiang Ma, Anlong Ming, Yu Zhou. Objectness-aware Tracking via Double Layer Model. The 25th IEEE International Conference on Image Processing (ICIP), 2018.
-- Aiwei Yu, Anlong Ming, **Menghan Zhou**, Xuejing Kang and Yu Zhou. Occlusion Edges Extracation for Depth Ordering Inference from Monocular Images. The 5th International Conference on Enterprise Systems (ES), 2017. **(Oral Presentation)**
+**Occlusion-shared and Feature-separated Network for Occlusion Relationship Reasoning**
+Rui Lu, Feng Xue, **Menghan Zhou**, Anlong Ming, Yu Zhou
+IEEE International Conference on Computer Vision (*ICCV*), 2019
+
+**Context-constrained Accurate Contour Extraction for Occlusion Edge Detection**
+Rui Lu, **Menghan Zhou**, Anlong Ming, Yu Zhou 
+IEEE International Conference on Multimedia and Expo (*ICME*), 2019.
+
+**A Novel Multi-layers Framework for Tiny Obstacle Discovery**
+Feng Xue, Anlong Ming, **Menghan Zhou**, Yu Zhou
+IEEE International Conference on Robotics and Automation (*ICRA*), 2019
+
+**Objectness-aware Tracking via Double Layer Model**
+**Menghan Zhou**, Jianxiang Ma, Anlong Ming, Yu Zhou
+IEEE International Conference on Image Processing (*ICIP*), 2018
+
+**Occlusion Edges Extracation for Depth Ordering Inference from Monocular Images**
+Aiwei Yu, Anlong Ming, **Menghan Zhou**, Xuejing Kang and Yu Zhou
+IEEE International Conference on Enterprise Systems (*ES*), 2017
+**(Oral Presentation)**
 
 # 🎉 Competitions & Awards
 - *2024.04* The 4th of the AIS2024 CVPR Challenge on Real-time Compressed Image Super-Resolution (Fidelity track). (25 teams in total)
