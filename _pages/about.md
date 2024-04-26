@@ -49,7 +49,7 @@ IEEE International Conference on Multimedia and Expo (***ICME***), 2019
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2019</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2019</div><img src='images/ICRA2019.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **A Novel Multi-layers Framework for Tiny Obstacle Discovery**  
