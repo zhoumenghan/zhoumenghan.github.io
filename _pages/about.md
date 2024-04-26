@@ -24,16 +24,13 @@ I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem L
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2019</div><img src='images/apple-touch-icon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Occlusion-shared and Feature-separated Network for Occlusion Relationship Reasoning**
-
-<br> Rui Lu, Feng Xue, **Menghan Zhou**, Anlong Ming, Yu Zhou  <br>
-
-<br> IEEE International Conference on Computer Vision (***ICCV***), 2019 <br>
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+Rui Lu, Feng Xue, **Menghan Zhou**, Anlong Ming, Yu Zhou 
+IEEE International Conference on Computer Vision (***ICCV***), 2019 
+[**Paper**](https://arxiv.org/pdf/1908.05898v1)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -43,11 +40,9 @@ I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem L
 <div class='paper-box-text' markdown="1">
 
 **Context-constrained Accurate Contour Extraction for Occlusion Edge Detection**  
-<br> Rui Lu, **Menghan Zhou**, Anlong Ming, Yu Zhou  <br>
-
-<br> IEEE International Conference on Multimedia and Expo (***ICME***), 2019 <br>
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+Rui Lu, **Menghan Zhou**, Anlong Ming, Yu Zhou
+IEEE International Conference on Multimedia and Expo (***ICME***), 2019
+[**Paper**](https://arxiv.org/pdf/1903.08890)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -56,12 +51,10 @@ I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem L
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2019</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**Context-constrained Accurate Contour Extraction for Occlusion Edge Detection**  
-<br> Feng Xue, Anlong Ming, **Menghan Zhou**, Yu Zhou  <br>
-
-<br> IEEE International Conference on Robotics and Automation (***ICRA***), 2019 <br>
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+**A Novel Multi-layers Framework for Tiny Obstacle Discovery**  
+Feng Xue, Anlong Ming, **Menghan Zhou**, Yu Zhou
+IEEE International Conference on Robotics and Automation (***ICRA***), 2019
+[**Paper**](https://arxiv.org/pdf/1904.10161v3)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -71,11 +64,9 @@ I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem L
 <div class='paper-box-text' markdown="1">
   
 **Objectness-aware Tracking via Double Layer Model**  
-<br> **Menghan Zhou**, Jianxiang Ma, Anlong Ming, Yu Zhou  <br>
-
-<br> IEEE International Conference on Image Processing (***ICIP***), 2018 <br>
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+**Menghan Zhou**, Jianxiang Ma, Anlong Ming, Yu Zhou
+IEEE International Conference on Image Processing (***ICIP***), 2018 
+[**Paper**](https://ieeexplore.ieee.org/document/8451130)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -83,12 +74,10 @@ I am currently working as a Advisory Researcher in PCI&E Intelligent Ecosystem L
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES 2017</div><img src='images/500x300.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**Occlusion Edges Extracation for Depth Ordering Inference from Monocular Images**   **(Oral Presentation)**
-<br> Aiwei Yu, Anlong Ming, **Menghan Zhou**, Xuejing Kang and Yu Zhou  <br>
-
-<br> IEEE International Conference on Enterprise Systems (***ES***), 2017 <br>
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+**Occlusion Edges Extracation for Depth Ordering Inference from Monocular Images**   
+Aiwei Yu, Anlong Ming, **Menghan Zhou**, Xuejing Kang and Yu Zhou 
+IEEE International Conference on Enterprise Systems (***ES***), 2017 
+**(Oral Presentation)**
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
